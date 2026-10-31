@@ -37,9 +37,7 @@ A straightforward C program built to manage student records using a singly linke
 1. **Compile the program:**
    ---
    make
-2. **Run the executable:
-    --- 
-   ./student
+
            make
 2.Run the executable:
    -bash
