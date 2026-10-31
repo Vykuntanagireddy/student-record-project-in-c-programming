@@ -4,7 +4,7 @@ int main(void) {
     st *hptr = NULL;
     char op;
 
-    /* Load saved student records automatically on startup */
+    \\ Load saved student records 
     load(&hptr);
 
     do {
