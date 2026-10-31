@@ -4,7 +4,7 @@ int main(void) {
     st *hptr = NULL;
     char op;
 
-    \\ Load saved student records 
+    //Load saved student records 
     load(&hptr);
 
     do {
